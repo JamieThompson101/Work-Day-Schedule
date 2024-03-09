@@ -47,3 +47,7 @@ THEN the saved events persist
 ##Credits:
 
 (Starter code)[https://github.com/coding-boot-camp/crispy-octo-meme]
+
+##Link to the deployed website:
+
+(Link to the website)[https://jamiethompson101.github.io/Work-Day-Schedule/]
