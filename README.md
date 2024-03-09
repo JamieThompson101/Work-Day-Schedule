@@ -1,4 +1,5 @@
 # Work-Day-Schedule
+##Acceptance criteria:
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
@@ -15,3 +16,14 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+
+##Description:
+
+
+
+##Motivators:
+
+
+
+
+(link)[![image](https://github.com/JamieThompson101/Work-Day-Schedule/assets/130515437/454285a2-99ed-420e-83d0-090fcb84e49d)
